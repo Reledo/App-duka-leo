@@ -1,0 +1,6 @@
+{
+  "name": "DukaLeo",
+  "description": "Mobile-first shop management and POS application for Tanzanian shop owners and cashiers",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
